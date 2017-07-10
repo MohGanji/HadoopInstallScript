@@ -1,7 +1,7 @@
 # Hadoop
 Hadoop multinode installation bash script
 
-#Run on ubuntu 16.04 32 bit in order not to get some warnings.
+# Run on ubuntu 16.04 32 bit in order not to get some warnings.
 
 Step By Step installation guide:
 
@@ -22,5 +22,6 @@ ex: bash 1_both_java_insall.sh
 9- run this command: $source ~/.bashrc
 ...
 
-### there is a problem now, namenode does not start datanodes.
+## TO DO
+- [ ] there is a problem now, namenode does not start datanodes.
 
