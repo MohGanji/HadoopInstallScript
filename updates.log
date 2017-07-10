@@ -1,0 +1,4 @@
+last update:
+	everything goes fine, the problem is that at last the Master does not find the slaves when testing with jps, so there has to be some debugging.
+	
+	the second problem is that setting environments is good, but it does really bother when trying to automate everything with some shell scripts, so first thing to do is to change all  environments to their values.
